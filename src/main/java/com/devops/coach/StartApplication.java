@@ -5,7 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-
+/**
+ * https://www.coachdevops.com/2023/05/how-to-deploy-springboot-microservices_13.html
+ *
+ * **/
 @SpringBootApplication
 @Controller
 public class StartApplication {
