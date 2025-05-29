@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2451930d-d950-4ff0-a5f1-02883f020d00" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pipeline-chart/values.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pipeline-chart/values.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/devops/coach/StartApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/devops/coach/StartApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1748414552607</updated>
       <workItem from="1748414553702" duration="64000" />
-      <workItem from="1748414745416" duration="4746000" />
+      <workItem from="1748414745416" duration="5449000" />
     </task>
     <servers />
   </component>
